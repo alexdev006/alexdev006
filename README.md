@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexdev006
-- 👀 I’m interested in programming (ReactJs ❤, MERN stack, Redux ...), retrogaming and gardening ✌ !
-- 🌱 I’m currently learning useReducer/UseContext
+- 👀 I’m interested in programming (ReactJs ❤, hooks, MERN stack,useContext/reducer, Redux, ...), retrogaming and gardening ✌ !
+- 🌱 I’m currently learning NextJs/graphQl
 - 📫 How to reach me : alexguidat@gmail.com
 
 <!---
