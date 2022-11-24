@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexdev006
-- 👀 I’m interested in programming (React Js ❤, hooks, MERN stack,useContext/reducer, Redux, ...), retrogaming and gardening ✌ !
-- 🌱 I’m currently learning NextJs - TailwindCss
+- 👀 I’m interested in programming (React Js ❤, NextJs, ...), retrogaming and gardening ✌ !
+- 🌱 I’m currently learning NextJs 13 - TailwindCss
 - 📫 How to reach me : alexguidat@gmail.com
 
 <!---
