@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexdev006
 - 👀 I’m interested in programming (React Js ❤, NextJs, ...), retrogaming and gardening ✌ !
-- 🌱 I’m currently learning NextJs 13 - TailwindCss
+- 🌱 I’m currently learning NextJs 13 - Typescript - TailwindCss
 - 📫 How to reach me : alexguidat@gmail.com
 
 <!---
