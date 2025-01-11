@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexdev006
-- 👀 I’m interested in programming (React Js, NextJs :heart:), movies, retrogaming (nintendo fanboy here!) and gardening ✌ 
+- 👀 I’m interested in programming (React Js, NextJs :heart:), movies, retrogaming (nintendo fanboy here!) and gardening 🌳
 - 📫 How to reach me : alexguidat@gmail.com
-- Side project : make a internet site for a association from my city. Nextjs 14 - TailwindCss - Framer Motion - TS / MongoDb - Prisma 
+- Side project : make a internet site for a association from my city. Nextjs 14 - TailwindCss - Framer Motion - TS / MongoDb - Prisma - Payload CMS
 
 <!---
 alexdev006/alexdev006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
